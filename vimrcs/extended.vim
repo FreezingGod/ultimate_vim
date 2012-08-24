@@ -8,13 +8,14 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => GUI related
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-set background=dark
 
-if has("gui_running")
-    colorscheme peaksea
-else
-    colorscheme ir_black
-endif
+"if has("gui_running")
+"else
+"    colorscheme ir_black
+"endif
+colorscheme peaksea
+set background=dark
+colorscheme peaksea
 
 " Set font according to system
 if has("mac") || has("macunix")
