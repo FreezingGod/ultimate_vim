@@ -291,3 +291,9 @@ Vimscript mappings:
 * [Vim 7.3: Persistent undo and encryption!](http://amix.dk/blog/post/19548#Vim-7-3-Persistent-undo-and-encryption)
 * [Vim tips: Visual Search](http://amix.dk/blog/post/19334#Vim-tips-Visual-Search)
 * [Folding in Vim](http://amix.dk/blog/post/19132#Folding-in-Vim)
+
+### Other plugins added
+fencview: File encoding view
+syntastic: Syntax check for a lot of languages
+vim-slime: Vim version of slime, push code snippet in vim to another REPL env in another screen window
+vim2hs: A collection of vimscripts for Haskell development
