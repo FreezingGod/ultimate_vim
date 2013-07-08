@@ -1,13 +1,13 @@
-let g:fencview_autodetect=1
-set encoding=utf-8
-set fileencoding=utf-8
-"set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,utf-16,latin1
-set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,utf-16,latin1
-"set termencoding=gbk
-set pastetoggle=<F2>
-set autochdir
-set mouse=a
-set nosmartindent
-set nofoldenable
-set number
-set nocompatible
+" let g:fencview_autodetect=1
+" set encoding=utf-8
+" set fileencoding=utf-8
+" "set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,utf-16,latin1
+" set fileencodings=ucs-bom,utf-8,cp936,gb18030,big5,euc-jp,euc-kr,utf-16,latin1
+" "set termencoding=gbk
+" set pastetoggle=<F2>
+" set autochdir
+" set mouse=a
+" set nosmartindent
+" set nofoldenable
+" set number
+" set nocompatible

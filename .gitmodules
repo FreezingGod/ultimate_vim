@@ -9,7 +9,7 @@
 	url = https://github.com/vim-scripts/tlib.git
 [submodule "sources_plugins/vim-snippets"]
 	path = sources_plugins/vim-snippets
-	url = https://github.com/acustodioo/vim-snippets.git
+	url = https://github.com/honza/vim-snippets.git
 [submodule "sources_plugins/bufexplorer.zip"]
 	path = sources_plugins/bufexplorer.zip
 	url = https://github.com/vim-scripts/bufexplorer.zip.git
