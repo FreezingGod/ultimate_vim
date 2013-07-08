@@ -293,7 +293,7 @@ Vimscript mappings:
 * [Folding in Vim](http://amix.dk/blog/post/19132#Folding-in-Vim)
 
 ### Other plugins added
-fencview: File encoding view
-syntastic: Syntax check for a lot of languages
-vim-slime: Vim version of slime, push code snippet in vim to another REPL env in another screen window
-vim2hs: A collection of vimscripts for Haskell development
+* fencview: File encoding view
+* syntastic: Syntax check for a lot of languages
+* vim-slime: Vim version of slime, push code snippet in vim to another REPL env in another screen window
+* vim2hs: A collection of vimscripts for Haskell development
