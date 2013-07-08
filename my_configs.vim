@@ -10,3 +10,4 @@ set mouse=a
 set nosmartindent
 set nofoldenable
 set number
+set nocompatible
